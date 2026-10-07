@@ -97,3 +97,4 @@ console.log(criarOperacao('somar')(5)); // Saída: 15
 console.log(criarOperacao('subtrair')(25)); // Saída: 15
 console.log(criarOperacao('multiplicar')(3)); // Saída: 30
 
+// a aula acabou aqui.
